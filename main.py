@@ -1,2 +1,2 @@
 while True: 
-    print("Temperatur (F): " + input.temperature(TemperatureUnit.FAHRENHEIT))
+    print("Temperature (F): " + input.temperature(TemperatureUnit.FAHRENHEIT))

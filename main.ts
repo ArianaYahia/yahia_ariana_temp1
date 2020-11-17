@@ -1,3 +1,3 @@
 while (true) {
-    console.log("Temperatur (F): " + input.temperature(TemperatureUnit.Fahrenheit))
+    console.log("Temperature (F): " + input.temperature(TemperatureUnit.Fahrenheit))
 }
