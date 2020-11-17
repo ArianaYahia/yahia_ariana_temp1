@@ -1,3 +1,3 @@
-def on_forever():
-    pass
-forever(on_forever)
+while True: 
+    print("Temperatur (F): ")
+    print(input.temperature(TemperatureUnit.FAHRENHEIT))
